@@ -1,0 +1,6 @@
+/ssh:zvonkok@10.153.137.56:/etc/crontab
+/tmp/#!ssh:zvonkok@10.153.137.56:!etc!crontab#
+/ssh:sysadmin@10.153.137.56:/etc/motd
+/tmp/#!ssh:sysadmin@10.153.137.56:!etc!motd#
+/home/zvonkok/.emacs.d/init.el
+/home/zvonkok/.emacs.d/#init.el#
